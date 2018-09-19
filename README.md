@@ -1,6 +1,11 @@
 # cheatsheet
-small snippets for special reasons
 
+## chrome antialiaze
+```css
+*{
+  -webkit-font-smoothing: antialiased;
+  }
+```
 ## Text outline via css
 ``` css
 .outline{
