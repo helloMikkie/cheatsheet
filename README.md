@@ -17,3 +17,12 @@
      1px 1px 0 #000;
 }
 ```
+## custom fonts
+```css
+@font-face{
+       font-family:'Lab-Grotesk';
+       font-style: normal;
+       font-weight: 600;
+       src: url(fonts/LabGrotesque-Bold.woff2), url(fonts/LabGrotesque-Bold.woff);
+   }
+```
