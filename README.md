@@ -2,7 +2,7 @@
 small snippets for special reasons
 
 ## Text outline via css
-```
+``` css
 .outline{
   color: #fff;
   text-shadow:
