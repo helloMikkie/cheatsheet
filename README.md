@@ -26,6 +26,11 @@
        src: url(fonts/LabGrotesque-Bold.woff2), url(fonts/LabGrotesque-Bold.woff);
    }
 ```
+## box-shadow properties
+x -  y - blur - radius -  color
+```css
+box-shadow:20px 20px 50px 15px grey;  
+```
 # Javascript
 ## random Number difference
 
